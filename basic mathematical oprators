@@ -1,5 +1,0 @@
-//SPDX_License_identifier: MIT;
-pragma solidity^0.8.0;
-contract arithmatic operators;
-function summations(int num1, int num2) public pure returns(int){
-        return num1 - num2;
